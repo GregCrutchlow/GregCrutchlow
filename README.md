@@ -11,13 +11,3 @@
 
 ### Connect with me:
 
-[![Twitter][1.2][1] [![LinkedIn][1.1][2]
-
-<!-- Icons  -->
-[1.1]: <i class="ri-linkedin-fill"></i>
-[1.2]: <i class="ri-twitter-fill"></i>
-
-
-<!-- Links to Social Media -->
-[1]: https://twitter.com/GregCrutchlow
-[2]: https://linkedin.com/in/gregcrutchlow/
