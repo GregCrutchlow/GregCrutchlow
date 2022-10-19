@@ -12,4 +12,4 @@
 ### Connect with me:
 ![linkedin-fill](https://user-images.githubusercontent.com/86253065/196588702-ea1eff1c-8605-4589-aa0c-9a9ef6d0518f.svg)
 ![mail-line](https://user-images.githubusercontent.com/86253065/196588704-dac2015b-9bd8-4619-a245-1e0b802943d6.svg)
-![twitter-line](https://user-images.githubusercontent.com/86253065/196588706-e46b4ac2-ba0a-4e7c-9ced-d130b8e2e721.svg)
+![twitter-line](https://twitter.com/GregCrutchlow)
