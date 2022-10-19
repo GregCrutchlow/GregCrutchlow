@@ -1,7 +1,5 @@
 ### Hello, I'm Greg Crutchlow! 👋
 ---
-<br />
-<br />
 
 - 🔭 I’m currently working on my personal portfolio website.
 - 🌱 I’m currently learning React.
