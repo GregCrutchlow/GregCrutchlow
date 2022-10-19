@@ -10,7 +10,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have 3 cats!
 
-### Connect with me:
 
 
 
