@@ -10,6 +10,14 @@
 - ⚡ Fun fact: I have 3 cats!
 
 ### Connect with me:
-![linkedin-fill](https://user-images.githubusercontent.com/86253065/196588702-ea1eff1c-8605-4589-aa0c-9a9ef6d0518f.svg)
-![mail-line](https://user-images.githubusercontent.com/86253065/196588704-dac2015b-9bd8-4619-a245-1e0b802943d6.svg)
-![twitter-line](https://twitter.com/GregCrutchlow)
+
+[![Twitter][1.2][1] [![LinkedIn][1.1][2]
+
+<!-- Icons  -->
+[1.1]: <i class="ri-linkedin-fill"></i>
+[1.2]: <i class="ri-twitter-fill"></i>
+
+
+<!-- Links to Social Media -->
+[1]: https://twitter.com/GregCrutchlow
+[2]: https://linkedin.com/in/gregcrutchlow/
