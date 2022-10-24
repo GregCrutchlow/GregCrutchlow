@@ -16,6 +16,4 @@ Skills: HTML | CSS | SASS | JS | REACT
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GregCrutchlow&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/GregCrutchlow)  
-
 ![Profile views](https://gpvc.arturio.dev/GregCrutchlow)  
