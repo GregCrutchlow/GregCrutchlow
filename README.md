@@ -1,3 +1,5 @@
+![](codingcat.gif)
+
 ### Hi there 👋, I'm Greg Crutchlow
 #### I'm a Front-End Web Dev
 I'm a Front-End Web Dev based in Ottawa Canada, with a background in photography and craft beer logistics and canning.
