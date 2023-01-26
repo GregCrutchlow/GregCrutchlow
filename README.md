@@ -1,4 +1,3 @@
-![](codingcat.gif)
 
 ### Hi there 👋, I'm Greg Crutchlow
 #### I'm a Front-End Web Dev
