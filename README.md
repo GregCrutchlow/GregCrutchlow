@@ -5,11 +5,11 @@ I'm a Front-End Web Dev based in Ottawa Canada, with a background in photography
 
 Skills: HTML | CSS | SASS | JS | REACT
 
-- 🔭 I’m currently working on updating my personal page and past projects. 
-- 🌱 I’m currently learning JS and React again to brush up on skills as well as Linux OS. Going to learn Next.JS and Vue!
+- 🔭 I’m currently working on learning Linux and JavaScript. 
+- 🌱 I’m currently learning JS and React again to brush up on skills as well as Linux OS.
 - 👯 I’m looking to collaborate on any project! 
 - 🤔 I’m looking for help with JS, React and Firebase. 
-- 💬 Ask me about Sass and mechanical keyboards!
+- 💬 Ask me about mechanical keyboards!
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I have 3 cats! 
 
